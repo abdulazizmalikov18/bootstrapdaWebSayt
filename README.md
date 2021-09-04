@@ -1,0 +1,2 @@
+# bootstrapdaWebSayt
+bootstrapda ishlash amaliyotidan.
